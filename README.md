@@ -1,2 +1,3 @@
-<h1>music page simple<h1>
-simple javascript
+music page simple<br>
+simple javascript<br>
+we have added some features<br>
